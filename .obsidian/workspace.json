@@ -11,14 +11,15 @@
             "id": "60d4e44e2416c7f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Memo.md",
-                "mode": "source",
-                "source": false
+                "aFile": "tech",
+                "bFile": "tech",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Memo"
+              "icon": "diff",
+              "title": "Diff: tech"
             }
           }
         ]
@@ -179,10 +180,12 @@
   },
   "active": "60d4e44e2416c7f1",
   "lastOpenFiles": [
-    "README.md",
-    "Memo.md",
-    "無題のフォルダ",
     "tech/GitHub Appsの基本と実装方法.md",
+    "tech/LLMをローカルでホスティングする方法について調査した.md",
+    "tech/Google AI Studio入門：Geminiモデルをブラウザで手軽に試す！.md",
+    "Memo.md",
+    "README.md",
+    "無題のフォルダ",
     "tech"
   ]
 }
