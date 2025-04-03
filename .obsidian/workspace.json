@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/GitHub Appsの基本と実装方法.md",
+                "file": "Memo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub Appsの基本と実装方法"
+              "title": "Memo"
             }
           }
         ]
@@ -180,8 +180,9 @@
   "active": "60d4e44e2416c7f1",
   "lastOpenFiles": [
     "README.md",
-    "無題のファイル.md",
+    "Memo.md",
     "無題のフォルダ",
+    "tech/GitHub Appsの基本と実装方法.md",
     "tech"
   ]
 }
