@@ -1,0 +1,4 @@
+[submodule "tech"]
+	path = tech
+	url = https://github.com/ri-suzuki/tech-docs.git
+	branch = main

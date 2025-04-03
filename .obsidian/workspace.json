@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6c726d81509fc0df",
+        "id": "f9d42253b7f27c43",
         "type": "tabs",
         "children": [
           {
-            "id": "b272e0e94c9911db",
+            "id": "60d4e44e2416c7f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "README"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "READMEへのバックリンク"
             }
           },
           {
@@ -143,8 +148,19 @@
               "icon": "lucide-list",
               "title": "アウトライン"
             }
+          },
+          {
+            "id": "507e53393a042f0d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,7 +179,9 @@
   },
   "active": "90f8f6ff33b06a64",
   "lastOpenFiles": [
-    "README.md",
-    "tech"
+    "無題のファイル.md",
+    "無題のフォルダ",
+    "tech",
+    "README.md"
   ]
 }
